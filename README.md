@@ -1,11 +1,12 @@
 ### Hi there 👋
+I am was a Mobile Team Lead and Moonlight as a ML Engineer / Hacker
 ![ArenSc GitHub stats](https://github-readme-stats.vercel.app/api?username=arensc&show_icons=true&count_private=true&theme=radical)
 <!--
 **ArEnSc/ArEnSc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on ... RWKV OSX / iOS Library
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
