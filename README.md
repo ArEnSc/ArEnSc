@@ -1,7 +1,7 @@
 ### About Me 👋
 ![ArenSc GitHub stats](https://github-readme-stats.vercel.app/api?username=arensc&show_icons=true&count_private=true&theme=radical)
 
-I am was a Mobile iOS Team Lead, and Moonlight as a ML Engineer / Hacker on weekends!
+I am ML Engineer / Hacker
 <!--
 **ArEnSc/ArEnSc** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
